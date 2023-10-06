@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Đức Anh💙 </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anhtran123-max&label=Views&color=blue&style=plastic" alt="anhtran123-max" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anhtran123-max&label=Views&color=blue&style=plastic" alt="Anhtran2707" /> </p>
 
 
 - 🎓 I'm studying at UTC2.
@@ -12,9 +12,9 @@
 ### My stats card
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helianthusss&hide_border=true&langs_count=8&hide=html,css&layout=compact&bg_color=DEG,3a1c71,d76d77,ffaf7b&title_color=FFE4E1&text_color=ffff" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhtran2707&hide_border=true&langs_count=8&hide=html,css&layout=compact&bg_color=DEG,3a1c71,d76d77,ffaf7b&title_color=FFE4E1&text_color=ffff" />
 <p align="center">
-    <img src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=Helianthusss&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=DEG,3a1c71,d76d77,ffaf7b&title_color=FFE4E1&text_color=ffff&icon_color=ffc61c" />
+    <img src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=Anhtran2707&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=DEG,3a1c71,d76d77,ffaf7b&title_color=FFE4E1&text_color=ffff&icon_color=ffc61c" />
 
 
 
