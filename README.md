@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Đức Anh💙 </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anhtran123-max&label=Views&color=blue&style=plastic" alt="Anhtran2707" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anhtran2707&label=Views&color=blue&style=plastic" alt="Anhtran2707" /> </p>
 
 
 - 🎓 I'm studying at UTC2.
